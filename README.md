@@ -1,7 +1,4 @@
-# Video downloader tool
-
-instagram + YouTube 
-## 🎬 Video Downloader Tool
+# 🎬 Video Downloader Tool
 
 A powerful and lightweight video downloader tool that allows users to download videos from **YouTube** and **Instagram** in multiple quality formats.
 
